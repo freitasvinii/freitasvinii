@@ -8,10 +8,16 @@
 - Cursando **bacharelado em Ciência da Computação** e sempre aprendendo coisas novas.  
 - Interesse em desenvolvimento de software e soluções tecnológicas.  
 
-## 🔧 Tecnologias que estou explorando  
-📌 **Linguagens:** Python, C#  
-📌 **Front-end:** HTML, CSS, JavaScript  
-📌 **Banco de Dados:** SQL  
+## 🚀 Linguagens em Estudo
+
+### 🐍 Python
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
+### #️⃣ C#
+![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
+
+### 🌐 JavaScript
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
 
 ## 📫 Como me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-teodoro-de-freitas)  

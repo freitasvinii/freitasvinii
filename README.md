@@ -14,9 +14,9 @@
 📌 **Banco de Dados:** SQL  
 
 ## 📫 Como me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-teodoro-de-freitas)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-teodoro-de-freitas)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/freitasvinii)  
-📧 E-mail: teodorodefreitasvinicius@gmail.com  
+📧 E-mail: *teodorodefreitasvinicius@gmail.com*  
 
 ---
 

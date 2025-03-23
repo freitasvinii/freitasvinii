@@ -10,14 +10,11 @@
 
 ## 🚀 Linguagens em Estudo
 
-### 🐍 Python
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-
-### #️⃣ C#
-![C#](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png)
-
-### 🌐 JavaScript
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="100" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" style="margin: 10px;">
+</div>
 
 ## 📫 Como me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-teodoro-de-freitas)  

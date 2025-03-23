@@ -25,3 +25,7 @@
 ---
 
 Seja bem-vindo ao meu perfil! 🚀 Sempre aberto a aprender e colaborar.
+
+<img src="https://raw.githubusercontent.com/freitasvinii/freitasvinii/output/snake.svg" alt="Snake animation" />
+
+###

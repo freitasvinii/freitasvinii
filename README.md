@@ -5,7 +5,7 @@
 🚀 Buscando evoluir na área de TI e contribuir com projetos inovadores.  
 
 ## 🌟 Sobre mim  
-- Cursando **faculdade de Ciência da Computação** e sempre aprendendo coisas novas.  
+- Cursando **bacharelado em Ciência da Computação** e sempre aprendendo coisas novas.  
 - Interesse em desenvolvimento de software e soluções tecnológicas.  
 
 ## 🔧 Tecnologias que estou explorando  

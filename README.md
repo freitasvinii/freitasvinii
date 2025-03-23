@@ -1,12 +1,13 @@
 # 👋 Olá! Eu sou Vinícius Freitas
 
-🎓 Estudante de **Ciência da Computação** e apaixonado por programação.  
-💻 Explorando **Python**, **desenvolvimento Front-end** e novas tecnologias.  
-🚀 Buscando evoluir na área de TI e contribuir com projetos inovadores.  
+🎓 Estudante de **Ciência da Computação** e apaixonado por tecnologia.  
+💻 Explorando **Python, desenvolvimento Front-end** e novas tecnologias.  
+🚀 **Buscando minha primeira oportunidade na área de TI** para ganhar experiência e contribuir com projetos inovadores.  
 
 ## 🌟 Sobre mim  
-- Cursando **bacharelado em Ciência da Computação** e sempre aprendendo coisas novas.  
-- Interesse em desenvolvimento de software e soluções tecnológicas.  
+- 📚 Cursando **bacharelado em Ciência da Computação** e sempre aprendendo coisas novas.  
+- 🔍 Explorando diferentes áreas da tecnologia para descobrir em qual quero me especializar.  
+- 🖥️ Estudando **Python, JavaScript e C#** e desenvolvendo habilidades em programação.  
 
 ## 🚀 Linguagens em Estudo
 

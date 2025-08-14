@@ -25,7 +25,7 @@
 
 ---
 
-Seja bem-vindo ao meu perfil! 🚀 Sempre aberto a aprender e colaborar.
+Seja bem-vindo ao meu perfil! 🚀
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freitasvinii/freitasvinii/output/pacman-contribution-graph-dark.svg">

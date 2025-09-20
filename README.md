@@ -1,20 +1,21 @@
 # 👋 Olá! Eu sou Vinícius Freitas
 
 🎓 Estudante de **Ciência da Computação** e apaixonado por tecnologia.  
-💻 Explorando **Python, desenvolvimento Front-end** e novas tecnologias.  
+💻 Explorando **Python, Java e JavaScript**.  
 🚀 **Buscando minha primeira oportunidade na área de TI** para ganhar experiência e contribuir com projetos inovadores.  
 
 ## 🌟 Sobre mim  
 - 📚 Cursando **bacharelado em Ciência da Computação** e sempre aprendendo coisas novas.  
 - 🔍 Explorando diferentes áreas da tecnologia para descobrir em qual quero me especializar.  
-- 🖥️ Estudando **Python, JavaScript e C#** e desenvolvendo habilidades em programação.  
+- 🖥️ Estudando **Python, Java, JavaScript e C#** e desenvolvendo habilidades em programação.  
 
 ## 🚀 Linguagens em Estudo
 
 <div style="display: flex; align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="100" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="100">
 </div>
 
 ## 📫 Como me encontrar  
@@ -32,5 +33,3 @@ Seja bem-vindo ao meu perfil! 🚀
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/freitasvinii/freitasvinii/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/freitasvinii/freitasvinii/output/pacman-contribution-graph.svg">
 </picture>
-
-###

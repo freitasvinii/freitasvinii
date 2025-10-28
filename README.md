@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Vinícius Freitas
 
-🎓 Estudante de **Ciência da Computação**
+🎓 Estudante de **Ciência da Computação**  
 💻 Explorando **Python, Java e JavaScript**.  
 🚀 **Buscando minha primeira oportunidade na área de TI** para ganhar experiência e contribuir com projetos inovadores.  
 

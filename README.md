@@ -38,19 +38,19 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60"><br>
       <strong>Windows</strong>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"><br>
       <strong>Linux</strong>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="60"><br>
       <strong>PowerShell</strong>
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/483/483361.png" width="60"><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="60"><br>
       <strong>Hardware & Redes</strong>
     </td>
   </tr>
@@ -62,9 +62,8 @@
 - Automação de tarefas com **PowerShell e Python**
 - Conceitos de redes (**TCP/IP, DNS, DHCP**)
 - Diagnóstico e resolução de problemas em ambientes **Windows e Linux**
-- Atendimento e suporte ao usuário final
+- Atendimento ao usuário final
 
----
 
 ## 📫 Como me encontrar
 

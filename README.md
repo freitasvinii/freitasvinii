@@ -1,7 +1,9 @@
 # 👋 Olá! Eu sou Vinícius Freitas
 
 🎓 Estudante de *Ciência da Computação* apaixonado por tecnologia e resolução de problemas.
+
 🚀 Atualmente foco meus estudos em Suporte Técnico, Redes e Sistemas Operacionais, utilizando meu background em programação (Python/Java) para criar scripts de automação e facilitar a manutenção de sistemas.
+
 🎯 Objetivo: Aplicar meus conhecimentos técnicos em um estágio de Help Desk / Suporte TI, garantindo a eficiência da infraestrutura e ajudando usuários.
 
 ## 🚀 Linguagens em Estudo

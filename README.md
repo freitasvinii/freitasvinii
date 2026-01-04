@@ -10,12 +10,23 @@
 
 ## 🚀 Linguagens em Estudo
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="100" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="100" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="100">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"><br>
+      <strong>Python</strong>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="80"><br>
+      <strong>C#</strong>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80"><br>
+      <strong>SQL</strong>
+    </td>
+  </tr>
+</table>
+
 
 ---
 

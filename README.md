@@ -27,4 +27,13 @@ Buscando estágio em **Dados** ou **Suporte/Infraestrutura**
   <a href="https://wa.me/+5511999915609">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="https://instagram.com/freitasvinii">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>

@@ -19,25 +19,24 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🗺️ Minha Trajetória
 
-```python
-class Vinicius:
-    def __init__(self):
-        self.nome        = "Vinícius Freitas"
-        self.formação    = "Ciência da Computação"
-        self.empresa     = "Lepan Indústria de Alimentos"
-        self.cargo       = "Suporte TI · ERP · Automações Python"
-        self.buscando    = ["Estágio em Dados", "Estágio em Infra/Suporte"]
-        self.localização = "São Paulo, Brasil 🇧🇷"
-
-    def foco_atual(self):
-        return [
-            "Automações industriais com Python",
-            "Suporte e gestão de ERP",
-            "SQL e análise de dados",
-            "Infraestrutura de TI",
-        ]
+```
+🎓 Início da graduação em Ciência da Computação
+│
+├── 📚 Primeiros passos com Python, Java e C#
+│
+├── 🖥️  Lepan Indústria de Alimentos — Suporte de TI
+│        └── Atendimento técnico, gestão de chamados e infraestrutura
+│
+├── ⚙️  Lepan — Suporte ERP
+│        └── Implantação, manutenção e suporte ao sistema ERP corporativo
+│
+├── 🐍 Lepan — Automações em Python
+│        └── Scripts de automação para processos industriais e relatórios
+│
+└── 🚀 Agora — Buscando estágio em Dados ou Infraestrutura de TI
+         └── São Paulo, Brasil 🇧🇷
 ```
 
 ---

@@ -24,7 +24,7 @@ Buscando estágio em **Dados** ou **Suporte/Infraestrutura**
   <a href="https://linkedin.com/in/vinícius-teodoro-de-freitas">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/+5511999915609">
+  <a href="https://wa.me/5511999915609">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://instagram.com/freitasvinii">

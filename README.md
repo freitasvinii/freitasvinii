@@ -1,7 +1,7 @@
 # Vinícius Freitas
 
 Estudante de Ciência da Computação · Dados & Infraestrutura de TI  
-Lepan Indústria de Alimentos — suporte TI, ERP & automações em Python
+Lepan Indústria de Alimentos — Suporte TI, ERP & automações em Python
 
 Buscando estágio em **Dados** ou **Suporte/Infraestrutura**
 

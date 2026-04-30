@@ -10,6 +10,7 @@ Buscando estágio em **Dados** ou **Suporte/Infraestrutura**
 ## 🛠️ Tecnologias & Ferramentas
  
 <div align="center">
+ 
 **Linguagens**
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,8 +28,6 @@ Buscando estágio em **Dados** ou **Suporte/Infraestrutura**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 </div>
-
----
 
 ---
 

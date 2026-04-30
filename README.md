@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100=1a1b27&height=120&section=header&text=Vinícius+Freitas&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=140&section=header&text=Vinícius+Freitas&fontSize=38&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+<br/>
 
 **`Estudante de Ciência da Computação · Dados & Infraestrutura de TI`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Automacoes+em+Python+🐍;Suporte+%26+Infraestrutura+de+TI;Analise+%26+Engenharia+de+Dados+📊;Buscando+estagio+em+Dados+ou+Infra+🚀" alt="Typing SVG" />
+🐍 Python · 🗄️ SQL · 🖥️ Suporte TI · ⚙️ ERP · 🚀 Buscando Estágio
 
 <br/>
 
@@ -82,7 +84,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100=1a1b27&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=80&section=footer" />
 
 <sub>💡 Aberto a oportunidades de estágio em Dados ou Infraestrutura de TI</sub>
 <br/>

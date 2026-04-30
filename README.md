@@ -13,7 +13,7 @@
 
 **`Estudante de Ciência da Computação · Dados & Infraestrutura de TI`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Automações+em+Python+%F0%9F%90%8D;Suporte+%26+Infraestrutura+de+TI+%F0%9F%96%A5%EF%B8%8F;Análise+%26+Engenharia+de+Dados+%F0%9F%93%8A;Buscando+estágio+em+Dados+ou+Infra+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Automacoes+em+Python+🐍;Suporte+%26+Infraestrutura+de+TI+🖥️;Analise+%26+Engenharia+de+Dados+📊;Buscando+estagio+em+Dados+ou+Infra+🚀" alt="Typing SVG" />
 
 </div>
 

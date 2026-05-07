@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=160&section=header&text=Vinícius+Freitas&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 # Vinícius Freitas
@@ -14,7 +13,6 @@
 <a href="https://wa.me/5511999915609"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://instagram.com/freitasvinii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
-
 </div>
 
 ---
@@ -49,19 +47,23 @@
 
 <h2 align="center">📊 Estatísticas & Conquistas</h2>
 
+<br>
+
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=00000000&title_color=7983FE&icon_color=7983FE&text_color=9aa5be" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7983FE&text_color=9aa5be" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true&locale=pt-br&background=00000000&ring=7983FE&fire=F05F40&currStreakLabel=9aa5be&sideLabels=9aa5be&dates=9aa5be" />
 
   <br><br>
 

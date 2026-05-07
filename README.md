@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=160&section=header&text=Vinícius+Freitas&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-# Vinícius Freitas
-
 **`Estudante de Ciência da Computação • Dados & Infraestrutura de TI`**
 
 🐍 Python • 🗄️ SQL • 🖥️ Suporte TI • ⚙️ ERP • 🚀 Buscando Estágio

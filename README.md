@@ -30,23 +30,27 @@ Estudante de Ciência da Computação em São Paulo, construindo soluções prá
 </td>
 <td valign="top" width="50%">
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias & Ferramentas
 
 **Linguagens**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="SQL / PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
+</p>
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code"/>
+</p>
 
 </td>
 </tr>
@@ -54,45 +58,29 @@ Estudante de Ciência da Computação em São Paulo, construindo soluções prá
 
 ---
 
-## 🗺️ Trajetória
-
-```
-🎓 Início da graduação em Ciência da Computação
-│
-├── 📚 Primeiros passos com Python, Java e C#
-│
-├── 🖥️  Lepan Indústria de Alimentos — Suporte de TI
-│        └── Atendimento técnico, gestão de chamados e infraestrutura
-│
-├── ⚙️  Lepan — Suporte ERP
-│        └── Implantação, manutenção e suporte ao sistema ERP corporativo
-│
-├── 🐍 Lepan — Automações em Python
-│        └── Scripts de automação para processos industriais e relatórios
-│
-└── 🚀 Agora — Buscando estágio em Dados ou Infraestrutura de TI
-         └── São Paulo, Brasil 🇧🇷
-```
-
----
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" width="100%" />
 
----
+</td>
+<td valign="top" width="45%">
 
 ## 🏆 Conquistas
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=3&margin-w=8" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 

@@ -1,82 +1,103 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=140&section=header&text=Vinícius+Freitas&fontSize=38&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-**`Estudante de Ciência da Computação · Dados & Infraestrutura de TI`**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=160&section=header&text=Vinícius+Freitas&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-🐍 Python · 🗄️ SQL · 🖥️ Suporte TI · ⚙️ ERP · 🚀 Buscando Estágio
+# Vinícius Freitas
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:teodorodefreitasvinicius@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinícius-teodoro-de-freitas)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511999915609)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/freitasvinii)
+**`Estudante de Ciência da Computação • Dados & Infraestrutura de TI`**
+
+🐍 Python • 🗄️ SQL • 🖥️ Suporte TI • ⚙️ ERP • 🚀 Buscando Estágio
+
+<p>
+<a href="mailto:teodorodefreitasvinicius@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vinícius-teodoro-de-freitas">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5511999915609">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/freitasvinii">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
 </div>
 
 ---
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="55%">
 
-## 👤 Sobre mim
+## 👨‍💻 Sobre mim
 
-Estudante de Ciência da Computação em São Paulo, construindo soluções práticas e aprendendo na prática com cada projeto.
+🎓 Graduando em **Ciência da Computação** em São Paulo.
 
-- 🎓 Graduando em Ciência da Computação
-- 🖥️ Experiência em Suporte de TI e ERP industrial
-- 🐍 Automações em Python para processos e relatórios
-- 📊 Interesse em Dados e Infraestrutura de TI
-- 🚀 Buscando estágio em SP 🇧🇷
+💼 Experiência com **Suporte de TI**, ERP industrial e organização de dados.
+
+🐍 Desenvolvimento de automações em Python para processos e relatórios.
+
+📊 Interesse em **Dados, Infraestrutura e Tecnologia**.
+
+🚀 Buscando oportunidade de estágio em TI em São Paulo.
+
+<br>
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 </td>
-<td valign="top" width="50%">
+
+<td valign="top" width="45%">
 
 ## 🛠️ Tecnologias & Ferramentas
 
-**Linguagens**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="SQL / PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40" title="C#"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
-</p>
-
-**Ferramentas**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40" title="Linux"/>
-  <img src="https://skillicons.dev/icons?i=windows" height="40" title="Windows"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" title="VS Code"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-## 📊 Estatísticas
+### 👨‍💻 Linguagens
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=cs" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+
 </div>
 
-</td>
-<td valign="top" width="50%">
+<br>
+
+### ⚙️ Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+<img src="https://skillicons.dev/icons?i=windows" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+</div>
+
+<br>
 
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=2&margin-w=15&margin-h=15"/>
+
 </div>
 
 </td>
@@ -86,8 +107,23 @@ Estudante de Ciência da Computação em São Paulo, construindo soluções prá
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=80&section=footer" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=90&section=footer"/>
+
+<br>
+
 <sub>💡 Aberto a oportunidades de estágio em Dados ou Infraestrutura de TI</sub>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=freitasvinii&color=58A6FF&style=flat-square&label=visitantes" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=freitasvinii&color=58A6FF&style=for-the-badge&label=VISITANTES"/>
+
 </div>

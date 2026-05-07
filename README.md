@@ -45,21 +45,10 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas & Conquistas</h2>
-
-<br>
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=00000000&title_color=7983FE&icon_color=7983FE&text_color=9aa5be" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7983FE&text_color=9aa5be" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=00000000&title_color=7983FE&icon_color=7983FE&text_color=9aa5be&hide_title=false" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7983FE&text_color=9aa5be" />
 
   <br>
 

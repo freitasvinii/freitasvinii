@@ -58,18 +58,23 @@ Estudante de Ciência da Computação em São Paulo, construindo soluções prá
 
 ---
 
-## 📊 Estatísticas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏆 Conquistas
+## 📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="170em" src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=3&margin-w=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" />
-  &nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" height="165" />
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
 </div>
 
 ---

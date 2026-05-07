@@ -26,15 +26,12 @@
       🚀 Buscando oportunidade de estágio em TI em São Paulo.
     </td>
     <td valign="top" width="50%">
-      <h2 align="center">🛠️ Tecnologias & Ferramentas</h2>
-      <br>
-      <h3 align="center">👨‍💻 Linguagens</h3>
       <div align="center">
+        <h2>🛠️ Tecnologias & Ferramentas</h2>
+        <h3>👨‍💻 Linguagens</h3>
         <img src="https://skillicons.dev/icons?i=python,postgres,java,cs,js" />
-      </div>
-      <br>
-      <h3 align="center">⚙️ Ferramentas</h3>
-      <div align="center">
+        <br><br>
+        <h3>⚙️ Ferramentas</h3>
         <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
       </div>
     </td>
@@ -48,15 +45,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=00000000&title_color=7983FE&icon_color=7983FE&text_color=9aa5be" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7983FE&text_color=9aa5be" />
 
-</div>
+  <br>
 
-<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=freitasvinii&theme=tokyonight&hide_border=true&locale=pt_BR&background=00000000&ring=7983FE&fire=F05F40&currStreakLabel=9aa5be&sideLabels=9aa5be&dates=9aa5be" />
 
-  <img src="https://streak-stats.demolab.com/?user=freitasvinii&theme=tokyonight&hide_border=true&locale=pt_BR&background=00000000&ring=7983FE&fire=F05F40&currStreakLabel=9aa5be&sideLabels=9aa5be&dates=9aa5be" />
-
-</div>
-
-<div align="center">
+  <br><br>
 
   <img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10" />
 

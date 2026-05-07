@@ -40,20 +40,26 @@
 
 ---
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=00000000&title_color=7983FE&icon_color=7983FE&text_color=9aa5be" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7983FE&text_color=9aa5be" />
-
-  <br>
-
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=freitasvinii&theme=tokyonight&hide_border=true&locale=pt_BR&background=00000000&ring=7983FE&fire=F05F40&currStreakLabel=9aa5be&sideLabels=9aa5be&dates=9aa5be" />
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=10" />
-
-</div>
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <div align="center">
+        <h2>📊 Estatísticas</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=00000000&title_color=7983FE&icon_color=7983FE&text_color=9aa5be" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7983FE&text_color=9aa5be" />
+        <br>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=freitasvinii&theme=tokyonight&hide_border=true&locale=pt_BR&background=00000000&ring=7983FE&fire=F05F40&currStreakLabel=9aa5be&sideLabels=9aa5be&dates=9aa5be" />
+      </div>
+    </td>
+    <td valign="top" width="45%">
+      <div align="center">
+        <h2>🏆 Conquistas</h2>
+        <img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=3&row=2&margin-w=8&margin-h=8" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 

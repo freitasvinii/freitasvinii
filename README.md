@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=160&section=header&text=Vinícius+Freitas&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-**Estudante de Ciência da Computação • Dados & Infraestrutura de TI**
+
+**`Estudante de Ciência da Computação • Dados & Infraestrutura de TI`**
+
 🐍 Python • 🗄️ SQL • 🖥️ Suporte TI • ⚙️ ERP • 🚀 Buscando Estágio
+
 <p>
 <a href="mailto:teodorodefreitasvinicius@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/vinícius-teodoro-de-freitas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -9,7 +12,9 @@
 <a href="https://instagram.com/freitasvinii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 </div>
+
 ---
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -35,17 +40,25 @@
     </td>
   </tr>
 </table>
+
 ---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=00000000&title_color=7983FE&icon_color=7983FE&text_color=9aa5be&hide_title=false" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br&bg_color=00000000&title_color=7983FE&text_color=9aa5be" />
+
   <br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true&locale=pt-br&background=00000000&ring=7983FE&fire=F05F40&currStreakLabel=9aa5be&sideLabels=9aa5be&dates=9aa5be" />
+
   <br><br>
+
   <img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=6&row=1&margin-w=15&margin-h=15" />
 </div>
+
 ---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1f6feb,100:1a1b27&height=90&section=footer"/>
   <br>

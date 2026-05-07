@@ -58,29 +58,19 @@ Estudante de Ciência da Computação em São Paulo, construindo soluções prá
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
+## 📊 Estatísticas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏆 Conquistas
 
-## 📊 Estatísticas
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  &nbsp;
+  <img height="170em" src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=3&margin-w=8" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-<td valign="top" width="45%">
-
-## 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=3&margin-w=8" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" width="100%" />
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=donut&langs_count=6&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 

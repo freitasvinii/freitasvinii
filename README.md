@@ -32,7 +32,7 @@
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
 ## 👨‍💻 Sobre mim
 
@@ -46,21 +46,9 @@
 
 🚀 Buscando oportunidade de estágio em TI em São Paulo.
 
-<br>
-
-## 📈 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 </td>
 
-<td valign="top" width="45%">
+<td valign="top" width="50%">
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -90,23 +78,24 @@
 
 </div>
 
-<br>
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&column=2&margin-w=15&margin-h=15"/>
-
-</div>
-
 </td>
 </tr>
 </table>
 
 ---
 
+## 📈 Estatísticas & Conquistas
+
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=freitasvinii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=freitasvinii&theme=tokyonight&hide_border=true" height="165" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=freitasvinii&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasvinii&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 

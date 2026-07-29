@@ -27,7 +27,7 @@
 
 🏛️ Atualmente **estagiário de TI na CONAB**, órgão público vinculado ao Ministério da Agricultura.
 
-💼 Experiência prévia com **Suporte de TI**, ERP industrial e organização de dados.
+💼 Experiência com **Suporte de TI**, ERP industrial e organização de dados.
 
 🐍 Desenvolvimento de automações em **Python** para processos e relatórios.
 
